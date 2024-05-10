@@ -46,18 +46,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/janelstanford"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/janelstanford"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Stanford"
+      url: "https://github.com/lmlangloisb"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/school/stanford-university/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stanford"
+      url: "https://www.linkedin.com/in/lmlangloisb/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/stanford"
 
 defaults:
   # _posts
