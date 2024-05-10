@@ -17,4 +17,4 @@ Centered, but has to use HTML directly
 
 <p>&nbsp;</p>
 Non centered, markdown image
-![Jane Image]({{ site.baseurl }}/assets/images/janestanford.jpg)
+![Jane Image]({{ site.baseurl }}/assets/images/lucia_langlois.jpg)
